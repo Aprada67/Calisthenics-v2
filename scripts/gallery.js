@@ -52,7 +52,7 @@ const calisthenicsSkills = [
     {
         skillName: "Human Flag",
         imageUrl: "images/human-flag.jpg",
-        difficultLevel: 4
+        difficultLevel: 5
     },
     {
         skillName: "Full Planche",
@@ -67,7 +67,7 @@ const calisthenicsSkills = [
     {
         skillName: "Back Lever",
         imageUrl: "images/back-lever.jpg",
-        difficultLevel: 5
+        difficultLevel: 4
     },
     {
         skillName: "One-arm Pull-up",
